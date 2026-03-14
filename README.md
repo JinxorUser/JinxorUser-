@@ -1,4 +1,4 @@
-<h1 align="center">Jinxor</h1>
+<h1 align="center">JinxorUser</h1>
 
 <p align="center">
 If you see a yellow moon or gray circle ...
