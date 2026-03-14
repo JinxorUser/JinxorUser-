@@ -1,37 +1,16 @@
-👾 Jinxor</h1>
+<h1 align="center">Jinxor</h1>
 
 <p align="center">
 If you see a yellow moon or gray circle ...
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developer;Backend+Engineer;Node.js+%7C+C%2B%2B+%7C+C%23;Fortnite+Projects+Builder">
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;C%2B%2B;C%23;Node.js">
 </p>
 
 ---
 
-## 🧠 About Me
-
-```text
-Name: Jinxor
-Focus: Backend / Game Development
-Languages: C++ / C# / Node.js
-Projects: Fortnite related tools & services
-```
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,nodejs,js,ts,git,github,visualstudio,vscode" />
-
-</p>
-
----
-
-## 💻 Languages I Use
+## Languages
 
 <p align="center">
 
@@ -43,7 +22,7 @@ Projects: Fortnite related tools & services
 
 ---
 
-## 🎧 Discord Presence
+## Discord
 
 <p align="center">
 
@@ -53,17 +32,11 @@ Projects: Fortnite related tools & services
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jinxor&show_icons=true&theme=tokyonight&border_radius=10">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jinxor&theme=tokyonight&border_radius=10">
+<img src="https://github-readme-stats.vercel.app/api?username=Jinxor&show_icons=true&theme=tokyonight">
 
 </p>
 
@@ -75,17 +48,7 @@ Projects: Fortnite related tools & services
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jinxor&theme=tokyonight&no-frame=true&row=1&column=6">
-
-</p>
-
----
-
-## 🌐 Socials
+## Links
 
 <p align="center">
 
@@ -105,20 +68,8 @@ Projects: Fortnite related tools & services
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Jinxor&label=Profile%20Views&color=blue&style=for-the-badge">
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://komarev.com/ghpvc/?username=Jinxor&label=Profile%20Views&style=flat">
 
 </p>
