@@ -5,7 +5,7 @@ If you see a yellow moon or gray circle ...
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;C%2B%2B;C%23;Node.js">
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Node.js;Python;TypeScript">
 </p>
 
 ---
@@ -14,9 +14,9 @@ If you see a yellow moon or gray circle ...
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B">
-<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp">
 <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
 </p>
 
@@ -26,7 +26,7 @@ If you see a yellow moon or gray circle ...
 
 <p align="center">
 
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px">
+<img src="https://lanyard.cnrad.dev/api/jinxorogfn?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px">
 
 </p>
 
@@ -60,7 +60,7 @@ If you see a yellow moon or gray circle ...
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
 </a>
 
-<a href="https://discord.gg/yourserver">
+<a href="https://discord.gg/fortmp">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
